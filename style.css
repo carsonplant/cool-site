@@ -12,6 +12,24 @@
 .text-white{
   color: white;
 }
+.text-lightblue{
+  color: lightblue;
+}
 footer{
   height: 150px;
+}
+p{
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: left;
+}
+h4{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+h3{
+  font-size: 24px;
+}
+.light-blue-background{
+  background-color: lightblue;
 }
